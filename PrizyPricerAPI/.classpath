@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-aop-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-aspects-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-beans-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-context-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-context-support-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-core-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-expression-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-instrument-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-instrument-tomcat-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-jdbc-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-jms-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-orm-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-oxm-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-struts-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-test-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-tx-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-web-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-webmvc-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-webmvc-portlet-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-security/spring-security-config-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-security/spring-security-core-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Spring/3.2.16/spring-security/spring-security-web-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="C:/RAVI_WORKSPACE/PerforceWS/BAM/xCP2x/Int/int_2.0/projects/BAM/lib/External/Apache/Commons/Logging/1.1/commons-logging-1.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
